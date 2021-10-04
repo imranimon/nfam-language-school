@@ -13,7 +13,7 @@ const About = () => {
 
                 </Row>
                 <Row className="mt-5 w-100">
-                    <h1 className='text-secondary'>Why You Should Shoose Us</h1>
+                    <h1 className='text-secondary'>Why You Should Choose Us</h1>
                     <ListGroup className="mt-2">
                         <ListGroup.Item>
                             <span className="fw-bold fst-italic">Courses for kids and teens:</span> Our Essen language center offers weekly language courses for kids and teens ages 6 years and up, not to mention our language camps during school vacations. Here, the young people can make particularly rapid progress because they receive instruction every day. In addition to language courses, we also offer programming classes for kids and teens through the Digital School.

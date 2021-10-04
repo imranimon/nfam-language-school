@@ -7,7 +7,7 @@ const Header = () => {
         <div>
             <Navbar bg="secondary" variant="dark" expand="lg">
                 <Container>
-                    <Navbar.Brand href="" style={{ fontFamily: 'cursive' }}>NFam Language</Navbar.Brand>
+                    <Navbar.Brand href="/" style={{ fontFamily: 'cursive' }}>NFam Language</Navbar.Brand>
                     <Navbar.Toggle aria-controls="navbarScroll" />
                     <Navbar.Collapse id="navbarScroll">
                         <Nav>
