@@ -1,0 +1,14 @@
+.nav-link a{
+    text-decoration: none;
+    margin-right: 10px;
+    color:#d5d8d5;
+}
+
+.nav-link a:hover{
+    color: #fafbfa;
+}
+
+.selected{
+    color: #fafbfa;
+    font-weight:300;
+}
