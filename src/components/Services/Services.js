@@ -11,6 +11,8 @@ const Services = () => {
             .then(data => setCourses(data)), [])
     return (
         <div className="d-flex justify-content-center">
+            {/* Showing spinner when courses are loading */}
+
             {
                 courses.length === 0 ? <div className='m-5 p-5'>
                     <Spinner animation="border" variant="secondary" />
@@ -18,6 +20,7 @@ const Services = () => {
                     <div>
                         <h1 className='text-center mb-3 mt-2 text-secondary'>All Availabe Courses at a Glance</h1>
                         <Row md={3} xs={1} className="p-5 pt-2 gy-4 w-100">
+                            {/* Showing courses dynamically */}
                             {
                                 courses?.map(course => <Course
                                     key={course.id} course={course}></Course>)

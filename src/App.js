@@ -17,7 +17,7 @@ function App() {
         {/* Header Component */}
         <Header></Header>
 
-        {/* All existing routes */}
+        {/* All existing routes inside a container */}
         <div className="container">
           <Switch>
             <Route exact path="/">

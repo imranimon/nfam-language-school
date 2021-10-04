@@ -12,6 +12,8 @@ const Locations = () => {
     }, [])
     return (
         <div className="d-flex justify-content-center">
+            {/* Showing spinner when locations are loading */}
+
             {
                 locations.length === 0 ? <div className='m-5 p-5'>
                     <Spinner animation="border" variant="secondary" />
@@ -19,6 +21,7 @@ const Locations = () => {
                     <div className="mb-3">
                         <h1 className='text-center mb-3 mt-2 text-secondary'>Our Locations</h1>
                         <Row xs={1} md={2} className="g-4">
+                            {/* Showing locations dynamically */}
                             {
                                 locations?.map(location => <Branch key={location.name}
                                     location={location}></Branch>)

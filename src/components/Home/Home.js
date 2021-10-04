@@ -17,6 +17,8 @@ const Home = () => {
     }
     return (
         <div className="d-flex justify-content-center">
+            {/* Showing spinner when offers are loading */}
+
             {
                 offers.length === 0 ? <div className='m-5 p-5'>
                     <Spinner animation="border" variant="secondary"/>
@@ -27,6 +29,7 @@ const Home = () => {
                             <p>Anytime and anywhere: Learn German online and with our proven quality. No matter whether you are a beginner or an advanced learner no matter whether you want to learn German for professional or private reasons, you will find the right German online course for you.</p>
                         </Row>
                         <Row md={2} xs={1} className="p-5 pt-0 gy-4 w-100">
+                            {/* Showing offer dynamically */}
                             {
                                 offers?.map(offer => <Course
                                     key={offer.id} course={offer}>
