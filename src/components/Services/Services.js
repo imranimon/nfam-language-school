@@ -11,7 +11,7 @@ const Services = () => {
             .then(res => res.json())
             .then(data => setCourses(data)), [])
 
-    // Function for enroll to a course
+    // Function to enroll in a course
     const handleEnroll = () => {
         swal("Your Name:", {
             content: "input",
