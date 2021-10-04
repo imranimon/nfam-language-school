@@ -1,0 +1,50 @@
+[
+    {
+       "id":11,
+       "name":"German Online group course",
+       "details":[
+          "Interactive group exercise",
+          "Speak German in live Sessions",
+          "Course start on fixed date"
+       ],
+       "fee":"399",
+       "img":"https://www.goethe.de/resources/files/jpg1059/deutsch-online-in-der-gruppe-formatkey-jpg-w550.jpg",
+       "duration":"5 Weeks"
+    },
+    {
+       "id":22,
+       "name":"Deutsch Online Individual",
+       "details":[
+        "Individual monitoring and support",
+        "Maximum flexibility in terms of time",
+        "Course start is possible at any time"
+       ],
+       "fee":"499",
+       "img":"https://www.goethe.de/resources/files/jpg1059/deutsch-online-individual-formatkey-jpg-w550.jpg",
+       "duration":"5 Weeks"
+    },
+    {
+       "id":33,
+       "name":"Intensive German online",
+       "details":[
+          "High learning intensity through daily lessons",
+          "80 lessons in total",
+          "Regular examination options"
+       ],
+       "fee":"499",
+       "img":"https://www.goethe.de/resources/files/jpg1059/deutsch-intensiv-online-formatkey-jpg-w550.jpg",
+       "duration":"5 Weeks"
+    },
+    {
+       "id":44,
+       "name":"German Examination Training",
+       "details":[
+          "Highly efficient examination preparation",
+          "Get to know the exam objectives",
+          "Exam strategy trainig"
+       ],
+       "fee":"349",
+       "img":"https://www.goethe.de/resources/files/jpg1059/deutsch-online-in-der-gruppe-formatkey-jpg-w550.jpg",
+       "duration":"5 Weeks"
+    }
+ ]

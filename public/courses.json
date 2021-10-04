@@ -1,0 +1,146 @@
+[
+    {
+       "id":11,
+       "name":"General Level A1",
+       "details":[
+          "Interactive group exercise",
+          "Speak German in live Sessions",
+          "Course start on fixed date"
+       ],
+       "img":"https://thegermanhouse-lb.com/wp-content/uploads/2018/01/german-course-A1-960x480.jpg",
+       "duration":"5 Weeks",
+       "fee":"369"
+    },
+    {
+       "id":22,
+       "name":"General Level A2",
+       "details":[
+          "Interactive group exercise",
+          "Speak German in live Sessions",
+          "Course start on fixed date"
+       ],
+       "img":"https://thegermanhouse-lb.com/wp-content/uploads/2018/01/german-course-A2-960x480.jpg",
+       "duration":"5 Weeks",
+       "fee":"369"
+    },
+    {
+       "id":33,
+       "name":"General Level B1",
+       "details":[
+          "Interactive group exercise",
+          "Speak German in live Sessions",
+          "Course start on fixed date"
+       ],
+       "img":"https://thegermanhouse-lb.com/wp-content/uploads/2018/01/german-course-B1-960x480.jpg",
+       "duration":"5 Weeks",
+       "fee":"469"
+    },
+    {
+       "id":44,
+       "name":"General Level B2",
+       "details":[
+          "Interactive group exercise",
+          "Speak German in live Sessions",
+          "Course start on fixed date"
+       ],
+       "img":"https://thegermanhouse-lb.com/wp-content/uploads/2018/01/german-course-B2-960x480.jpg",
+       "duration":"5 Weeks",
+       "fee":"469"
+    },
+    {
+       "id":55,
+       "name":"General Level C1",
+       "details":[
+          "Interactive group exercise",
+          "Speak German in live Sessions",
+          "Course start on fixed date"
+       ],
+       "img":"https://thegermanhouse-lb.com/wp-content/uploads/2018/01/german-course-C1-960x480.jpg",
+       "duration":"5 Weeks",
+       "fee":"569"
+    },
+    {
+       "id":66,
+       "name":"General Level C2",
+       "details":[
+          "Interactive group exercise",
+          "Speak German in live Sessions",
+          "Course start on fixed date"
+       ],
+       "img":"german-course-C2-960x480.jpg",
+       "duration":"5 Weeks",
+       "fee":"569"
+    },
+    {
+       "id":111,
+       "name":"Professional Level A1",
+       "details":[
+          "Individual monitoring and support",
+          "Maximum flexibility in terms of time",
+          "Course start is possible at any time"
+       ],
+       "img":"https://thegermanhouse-lb.com/wp-content/uploads/2018/01/german-course-A1-960x480.jpg",
+       "duration":"6 Weeks",
+       "fee":"400"
+    },
+    {
+       "id":222,
+       "name":"Professional Level A2",
+       "details":[
+          "Individual monitoring and support",
+          "Maximum flexibility in terms os time",
+          "Course start is possible at any time"
+       ],
+       "img":"https://thegermanhouse-lb.com/wp-content/uploads/2018/01/german-course-A2-960x480.jpg",
+       "duration":"6 Weeks",
+       "fee":"400"
+    },
+    {
+       "id":333,
+       "name":"Professional Level B1",
+       "details":[
+          "Individual monitoring and support",
+          "Maximum flexibility in terms os time",
+          "Course start is possible at any time"
+       ],
+       "img":"https://thegermanhouse-lb.com/wp-content/uploads/2018/01/german-course-B1-960x480.jpg",
+       "duration":"6 Weeks",
+       "fee":"500"
+    },
+    {
+       "id":444,
+       "name":"Professional Level B2",
+       "details":[
+          "Individual monitoring and support",
+          "Maximum flexibility in terms os time",
+          "Course start is possible at any time"
+       ],
+       "img":"https://thegermanhouse-lb.com/wp-content/uploads/2018/01/german-course-B2-960x480.jpg",
+       "duration":"6 Weeks",
+       "fee":"500"
+    },
+    {
+       "id":555,
+       "name":"Professional Level C1",
+       "details":[
+          "Individual monitoring and support",
+          "Maximum flexibility in terms os time",
+          "Course start is possible at any time"
+       ],
+       "img":"https://thegermanhouse-lb.com/wp-content/uploads/2018/01/german-course-C1-960x480.jpg",
+       "duration":"6 Weeks",
+       "fee":"600"
+    },
+    {
+       "id":666,
+       "name":"Professional Level C2",
+       "details":[
+          "Individual monitoring and support",
+          "Maximum flexibility in terms os time",
+          "Course start is possible at any time"
+       ],
+       "img":"german-course-C2-960x480.jpg",
+       "duration":"6 Weeks",
+       "fee":"600"
+    }
+ ]

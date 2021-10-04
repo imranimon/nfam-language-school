@@ -1,0 +1,56 @@
+[
+    {
+      "name": "Berlin Charlottenburg Language Center",
+      "address": [
+        "Kurfürstendamm 500",
+        "10719 Charlottenburg, Berlin"
+      ],
+      "mobile": "+49159999555111",
+      "img": "https://images.contentstack.io/v3/assets/blta94287f64af734dc/blt105b08fa33f71cf3/5e562dda5c9cc50ddb7f3ccf/BerlinCharlottenburg_iStock-464190537.jpg?auto=webp&format=pjpg&quality=80&width=640&height=640&fit=crop&crop=640:480,smart"
+    },
+    {
+      "name": "Berlin Mitte Language Center",
+      "address": [
+        "IHZ Friedrichstraße 501",
+        "10117 Mitte, Berlin"
+      ],
+      "mobile": "+49159999555222",
+      "img": "https://images.contentstack.io/v3/assets/blta94287f64af734dc/bltd6fa4c8d59c96c06/5e562ddda3c51a0deb587ea7/Berlin_Mitte_iStock-1048311846.jpg?auto=webp&format=pjpg&quality=80&width=640&height=640&fit=crop&crop=640:480,smart"
+    },
+    {
+      "name": "Berlin Tegel Language Center",
+      "address": [
+        "Am Borsigturm 502",
+        "13507 Tegel, Berlin"
+      ],
+      "mobile": "+49159999555333",
+      "img": "https://images.contentstack.io/v3/assets/blta94287f64af734dc/blta14cc58dbe8c7a95/5e568b165f33950dd05d3061/Bremen_iStock-926601940.jpg?auto=webp&format=pjpg&quality=80&width=640&height=640&fit=crop&crop=640:480,smart"
+    },
+    {
+      "name": "Augsburg Language Center, Munich",
+      "address": [
+        "Karlstraße 503",
+        "86150 Augsburg, Bayern"
+      ],
+      "mobile": "+49159999555444",
+      "img": "https://images.contentstack.io/v3/assets/blta94287f64af734dc/blt4e8020e0077e98f0/5e4ff048b3d89f0df28c23cc/Augusburg.jpg?auto=webp&format=pjpg&quality=80&width=640&height=640&fit=crop&crop=640:480,smart"
+    },
+    {
+      "name": "Freising Language Center, Munich",
+      "address": [
+        "Obere Hauptstr. 504",
+        "85354 Freising, Bayern"
+      ],
+      "mobile": "+49159999555666",
+      "img": "https://images.contentstack.io/v3/assets/blta94287f64af734dc/bltf741305df894525b/5e568ac13495b80dc6a6777a/Freising_iStock-1071462712.jpg?auto=webp&format=pjpg&quality=80&width=640&height=640&fit=crop&crop=640:480,smart"
+    },
+    {
+      "name": "Ingolstadt Language Center",
+      "address": [
+        "Moritzstraße 505",
+        "85049 Ingolstadt, Bayern"
+      ],
+      "mobile": "+49159999555777",
+      "img": "https://images.contentstack.io/v3/assets/blta94287f64af734dc/blt06b7122d201cabf4/5e4fef6fe4c8f30de0213ca7/Munich.jpg?auto=webp&format=pjpg&quality=80&width=640&height=640&fit=crop&crop=640:480,smart"
+    }
+  ]
